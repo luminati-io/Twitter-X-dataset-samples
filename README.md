@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Twitter posts</h2>
 
-![Twitter dataset header](https://github.com/luminati-io/Twitter-X-dataset-samples/blob/main/twitter-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/twitter">
+   <img src="https://github.com/luminati-io/twitter-X-dataset-samples/blob/main/twitter-datasets.png" alt="twitter datasets" />
+</a>
 
 A Twitter dataset sample of over 1000 posts. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -46,6 +48,10 @@ Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
 <b>[Get the full Twitter dataset](https://brightdata.com/products/datasets/twitter)</b>.
+
+<a href="https://brightdata.com/products/datasets/twitter">
+   <img src="https://github.com/luminati-io/twitter-X-dataset-samples/blob/main/dataset-promotions.png" alt="twitter media datasets" />
+</a>
 
 <h2>What are the Twitter datasets use cases?</h2>
 
